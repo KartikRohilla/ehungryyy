@@ -24,7 +24,3 @@ This is a restaurant site. With this you can order the food of your choice onlin
 ### Languages & Tools:
 
 #### react, react-router-dom, react-hook-form, react-bootstrap, material-ui, firebase, nodejs, mongodb
-
-### Project Screenshot:
-
-<img src="https://i.ibb.co/cNyJ09W/ehungry.png" alt="ehungry googlermridul" border="0">
